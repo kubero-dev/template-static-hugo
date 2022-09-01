@@ -1,1 +1,2 @@
 build: -D
+web: supervisord
