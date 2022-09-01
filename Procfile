@@ -1,1 +1,1 @@
-build: hugo -D
+build: -D
