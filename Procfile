@@ -1,2 +1,2 @@
 build: hugo -D
-web: supervisord
+web: caddy file-server --listen :8080 --root /app/public
