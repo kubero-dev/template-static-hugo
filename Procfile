@@ -1,2 +1,2 @@
-build: -D
+build: hugo -D
 web: supervisord
